@@ -230,4 +230,4 @@ For issues or questions about the game implementation, please refer to the docum
 
 ---
 
-**Made with ❤️ for Wildlife Conservation Education**
+**Made with honour for Wildlife Conservation Education**
