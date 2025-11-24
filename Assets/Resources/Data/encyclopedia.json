@@ -1,0 +1,88 @@
+{
+    "encyclopediaEntries": [
+        {
+            "id": "elephant_facts",
+            "title": "African Elephant Conservation",
+            "category": "Wildlife",
+            "content": "African elephants are ecosystem engineers that shape their environment. They create water holes, disperse seeds, and maintain grasslands. Conservation efforts focus on anti-poaching patrols, habitat protection, and community engagement.",
+            "unlockCondition": "Complete an elephant rescue mission"
+        },
+        {
+            "id": "rescue_techniques",
+            "title": "Wildlife Rescue Techniques",
+            "category": "Ranger Skills",
+            "content": "Successful wildlife rescue requires careful planning: 1) Assess the situation from a safe distance, 2) Prepare necessary equipment, 3) Minimize stress to the animal, 4) Work quickly but calmly, 5) Transport to appropriate care facility.",
+            "unlockCondition": "Complete your first rescue mission"
+        },
+        {
+            "id": "fire_ecology",
+            "title": "Fire in the Savanna Ecosystem",
+            "category": "Environment",
+            "content": "Fire is a natural part of savanna ecosystems, promoting new growth and maintaining grasslands. However, uncontrolled fires can be devastating. Rangers must balance natural fire cycles with protection of wildlife and property.",
+            "unlockCondition": "Complete a firefighting mission"
+        },
+        {
+            "id": "fire_management",
+            "title": "Bushfire Management",
+            "category": "Ranger Skills",
+            "content": "Effective bushfire management includes: creating firebreaks, controlled burns during safe conditions, monitoring weather patterns, and rapid response to new fires. Always consider wind direction and animal escape routes.",
+            "unlockCondition": "Extinguish 10 fires"
+        },
+        {
+            "id": "wildlife_medicine",
+            "title": "Wildlife First Aid",
+            "category": "Ranger Skills",
+            "content": "Basic wildlife first aid includes treating wounds, administering medications, and stabilizing injured animals for transport. Always prioritize your safety and minimize handling time to reduce stress on the animal.",
+            "unlockCondition": "Complete a medical aid mission"
+        },
+        {
+            "id": "first_aid",
+            "title": "Field Medical Kit",
+            "category": "Equipment",
+            "content": "A ranger's medical kit should include: antiseptics, bandages, pain medication, antibiotics, tranquilizers (with proper training), and emergency contact information for veterinarians.",
+            "unlockCondition": "Use 5 medical kits"
+        },
+        {
+            "id": "habitat_management",
+            "title": "Habitat Management",
+            "category": "Conservation",
+            "content": "Habitat management involves maintaining diverse ecosystems that support wildlife. This includes water source management, vegetation control, and creating corridors for animal movement between protected areas.",
+            "unlockCondition": "Complete a relocation mission"
+        },
+        {
+            "id": "animal_behavior",
+            "title": "Understanding Animal Behavior",
+            "category": "Wildlife",
+            "content": "Observing animal behavior helps rangers predict movements and identify problems. Key behaviors include feeding patterns, social interactions, territorial displays, and signs of stress or illness.",
+            "unlockCondition": "Observe 20 different animals"
+        },
+        {
+            "id": "conservation_law",
+            "title": "Wildlife Protection Laws",
+            "category": "Conservation",
+            "content": "Kenya's wildlife laws protect endangered species and their habitats. Poaching carries severe penalties. Rangers have authority to patrol protected areas and report illegal activities to authorities.",
+            "unlockCondition": "Complete a poacher tracking mission"
+        },
+        {
+            "id": "anti_poaching",
+            "title": "Anti-Poaching Strategies",
+            "category": "Ranger Skills",
+            "content": "Modern anti-poaching includes: regular patrols, camera traps, community informant networks, tracking technology, and rapid response teams. Evidence collection is crucial for prosecutions.",
+            "unlockCondition": "Collect evidence of illegal activity"
+        },
+        {
+            "id": "savanna_ecosystem",
+            "title": "The Savanna Ecosystem",
+            "category": "Environment",
+            "content": "Savannas are grasslands with scattered trees, characterized by distinct wet and dry seasons. They support incredible biodiversity including large herbivores, predators, and countless smaller species.",
+            "unlockCondition": "Explore 50% of the map"
+        },
+        {
+            "id": "water_management",
+            "title": "Water Source Management",
+            "category": "Conservation",
+            "content": "Water is critical in savanna ecosystems. Rangers maintain water holes, monitor water quality, and ensure equitable access for all species. During droughts, artificial water sources may be necessary.",
+            "unlockCondition": "Visit 5 water sources"
+        }
+    ]
+}
