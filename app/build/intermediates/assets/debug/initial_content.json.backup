@@ -1,0 +1,1180 @@
+[
+  {
+    "id": "cpr_adult",
+    "title_en": "CPR (Adult)",
+    "title_sw": "CPR (Mtu Mzima)",
+    "icon_asset": "ic_cpr",
+    "category": "Critical",
+    "keywords": "heart, breathing, chest, cardiac arrest, moyo, pumzi, kifua",
+    "steps": [
+      {
+        "text_en": "Check for responsiveness. Shake shoulders and shout 'Are you okay?'",
+        "text_sw": "Angalia kama anaitikia. Tikisa mabega na uliza kwa sauti 'Uko sawa?'",
+        "audio_asset_en": "cpr_step1_en.mp3",
+        "audio_asset_sw": "cpr_step1_sw.mp3",
+        "graphic_asset": "img_cpr_check",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Call 999 or 112 immediately if no response.",
+        "text_sw": "Piga 999 au 112 mara moja kama haitiki.",
+        "audio_asset_en": "cpr_step2_en.mp3",
+        "audio_asset_sw": "cpr_step2_sw.mp3",
+        "graphic_asset": "img_call_help",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Place heel of hand on center of chest. Interlock fingers.",
+        "text_sw": "Weka kisigino cha mkono katikati ya kifua. Unganisha vidole.",
+        "audio_asset_en": "cpr_step3_en.mp3",
+        "audio_asset_sw": "cpr_step3_sw.mp3",
+        "graphic_asset": "img_cpr_hand_pos",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Push hard and fast. 100-120 compressions per minute. Compress at least 2 inches deep.",
+        "text_sw": "Bonyeza kwa nguvu na haraka. Migandamizo 100-120 kwa dakika. Bonyeza kirefu cha inchi 2.",
+        "audio_asset_en": "cpr_step4_en.mp3",
+        "audio_asset_sw": "cpr_step4_sw.mp3",
+        "graphic_asset": "img_cpr_compress",
+        "timer_seconds": 120
+      },
+      {
+        "text_en": "Continue until help arrives or person starts breathing.",
+        "text_sw": "Endelea hadi msaada ufike au mtu aanze kupumua.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "cpr_child",
+    "title_en": "CPR (Child 1-8 years)",
+    "title_sw": "CPR (Mtoto 1-8 miaka)",
+    "icon_asset": "ic_cpr_child",
+    "category": "Critical",
+    "keywords": "child, kid, breathing, heart, mtoto, pumzi, moyo",
+    "steps": [
+      {
+        "text_en": "Check for responsiveness. Tap shoulder gently and call their name.",
+        "text_sw": "Angalia kama anaitikia. Gusa bega pole na mwite kwa jina.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_cpr_child_check",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Call 999 or 112 immediately if no response.",
+        "text_sw": "Piga 999 au 112 mara moja kama haitiki.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_help",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Use one or two hands on center of chest. Use less force than adult CPR.",
+        "text_sw": "Tumia mkono mmoja au miwili katikati ya kifua. Tumia nguvu kidogo kuliko CPR ya wazima.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_cpr_child_hands",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Compress about 2 inches deep at 100-120 per minute.",
+        "text_sw": "Bonyeza kirefu cha inchi 2 kwa kasi ya 100-120 kwa dakika.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_cpr_child_compress",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "cpr_infant",
+    "title_en": "CPR (Infant under 1 year)",
+    "title_sw": "CPR (Mtoto chini ya mwaka 1)",
+    "icon_asset": "ic_cpr_infant",
+    "category": "Critical",
+    "keywords": "baby, infant, newborn, mtoto mchanga, pumzi",
+    "steps": [
+      {
+        "text_en": "Check for responsiveness. Tap foot gently.",
+        "text_sw": "Angalia kama anaitikia. Gusa mguu pole.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_infant_check",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Call 999 or 112 immediately if no response.",
+        "text_sw": "Piga 999 au 112 mara moja kama haitiki.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_help",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Use two fingers on center of chest, just below nipple line.",
+        "text_sw": "Tumia vidole viwili katikati ya kifua, chini kidogo ya mistari ya chuchu.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_infant_fingers",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Compress about 1.5 inches deep at 100-120 per minute.",
+        "text_sw": "Bonyeza kirefu cha inchi 1.5 kwa kasi ya 100-120 kwa dakika.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_infant_compress",
+        "timer_seconds": 120
+      }
+    ]
+  },
+  {
+    "id": "choking_adult",
+    "title_en": "Choking (Adult)",
+    "title_sw": "Kunasa (Mtu Mzima)",
+    "icon_asset": "ic_choking",
+    "category": "Critical",
+    "keywords": "choking, airway, coughing, kunasa, kukohoa, hewa",
+    "steps": [
+      {
+        "text_en": "Ask 'Are you choking?' If they can't speak or cough, act immediately.",
+        "text_sw": "Uliza 'Unanasa?' Kama hawawezi kusema au kukohoa, fanya haraka.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_choking_check",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Stand behind them. Make a fist above their navel.",
+        "text_sw": "Simama nyuma yao. Fanya ngumi juu ya kitovu.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_heimlich_position",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Give 5 quick upward thrusts (Heimlich maneuver).",
+        "text_sw": "Toa misukumo 5 ya haraka kuelekea juu (Heimlich).",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_heimlich_thrust",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Repeat until object comes out or person becomes unconscious.",
+        "text_sw": "Rudia hadi kitu kitoke au mtu apoteze fahamu.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      },
+      {
+        "text_en": "If unconscious, start CPR and call 999/112.",
+        "text_sw": "Kama amepoteza fahamu, anza CPR na piga 999/112.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "choking_child",
+    "title_en": "Choking (Child/Infant)",
+    "title_sw": "Kunasa (Mtoto/Mchanga)",
+    "icon_asset": "ic_choking_child",
+    "category": "Critical",
+    "keywords": "child choking, baby, infant, mtoto kunasa",
+    "steps": [
+      {
+        "text_en": "For infant: Give 5 back blows between shoulder blades with heel of hand.",
+        "text_sw": "Kwa mtoto mchanga: Toa mapigo 5 ya mgongo kati ya mabega kwa kisigino.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_infant_back_blow",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Turn infant face up. Give 5 chest thrusts with two fingers.",
+        "text_sw": "Geuza mtoto uso juu. Toa misukumo 5 ya kifua kwa vidole viwili.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_infant_chest_thrust",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "For child: Use modified Heimlich with less force.",
+        "text_sw": "Kwa mtoto: Tumia Heimlich iliyobadilishwa kwa nguvu kidogo.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_child_heimlich",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Call 999/112 immediately if object doesn't come out.",
+        "text_sw": "Piga 999/112 mara moja kama kitu hakitoki.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "heart_attack",
+    "title_en": "Heart Attack",
+    "title_sw": "Mshtuko wa Moyo",
+    "icon_asset": "ic_heart_attack",
+    "category": "Critical",
+    "keywords": "chest pain, heart, cardiac, maumivu ya kifua, moyo",
+    "steps": [
+      {
+        "text_en": "Call 999 or 112 immediately. Don't wait!",
+        "text_sw": "Piga 999 au 112 mara moja. Usisubiri!",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_emergency",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Have person sit down and rest. Loosen tight clothing.",
+        "text_sw": "Mwambie mtu aketi na apumzike. Legeza nguo zinazobana.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_sit_rest",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Give aspirin if available and person is not allergic (chew, don't swallow).",
+        "text_sw": "Toa aspirini kama ipo na mtu hana mzio (tafuna, usimeze).",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_aspirin",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Monitor breathing. Be ready to perform CPR if needed.",
+        "text_sw": "Angalia upumuaji. Kuwa tayari kufanya CPR ikihitajika.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "stroke",
+    "title_en": "Stroke",
+    "title_sw": "Kiharusi/Stroke",
+    "icon_asset": "ic_stroke",
+    "category": "Critical",
+    "keywords": "stroke, paralysis, face drooping, kiharusi, kupooza",
+    "steps": [
+      {
+        "text_en": "Remember FAST: Face drooping, Arm weakness, Speech difficulty, Time to call 999/112.",
+        "text_sw": "Kumbuka FAST: Uso kupooza, Mkono kulegea, Usemi ugumu, Wakati wa kupiga 999/112.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_fast_stroke",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Call 999/112 immediately. Note the time symptoms started.",
+        "text_sw": "Piga 999/112 mara moja. Kumbuka wakati dalili zilianza.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_emergency",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Keep person calm and lying down with head slightly elevated.",
+        "text_sw": "Mwambie mtu atulie na alale na kichwa kikiwa juu kidogo.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_elevated_head",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Do NOT give food, drink, or medication.",
+        "text_sw": "USITOE chakula, kinywaji, au dawa.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "severe_bleeding",
+    "title_en": "Severe Bleeding",
+    "title_sw": "Kutokwa na Damu Sana",
+    "icon_asset": "ic_bleeding",
+    "category": "Critical",
+    "keywords": "blood, cut, wound, hemorrhage, damu, kidonda, jeraha",
+    "steps": [
+      {
+        "text_en": "Call 999/112 if bleeding is severe or won't stop.",
+        "text_sw": "Piga 999/112 kama damu inatoka sana au haachi.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_emergency",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Apply direct pressure to the wound with a clean cloth or bandage.",
+        "text_sw": "Bonyeza kidonda moja kwa moja na kitambaa safi au bendeji.",
+        "audio_asset_en": "bleed_step1_en.mp3",
+        "audio_asset_sw": "bleed_step1_sw.mp3",
+        "graphic_asset": "img_bleed_pressure",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Keep pressure for at least 10 minutes. Do not remove the cloth.",
+        "text_sw": "Endelea kubonyeza kwa dakika 10. Usitoe kitambaa.",
+        "audio_asset_en": "bleed_step2_en.mp3",
+        "audio_asset_sw": "bleed_step2_sw.mp3",
+        "graphic_asset": "img_bleed_hold",
+        "timer_seconds": 600
+      },
+      {
+        "text_en": "If blood soaks through, add more cloth on top. Don't remove the first one.",
+        "text_sw": "Kama damu inapenya, ongeza kitambaa juu. Usitoe cha kwanza.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Elevate the injured area above heart level if possible.",
+        "text_sw": "Inua sehemu iliyoumia juu ya kiwango cha moyo ikiwezekana.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_elevate_limb",
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "anaphylaxis",
+    "title_en": "Severe Allergic Reaction (Anaphylaxis)",
+    "title_sw": "Mzio Mkubwa (Anaphylaxis)",
+    "icon_asset": "ic_allergy",
+    "category": "Critical",
+    "keywords": "allergy, swelling, breathing, anaphylaxis, mzio, uvimbe, pumzi",
+    "steps": [
+      {
+        "text_en": "Call 999/112 immediately. This is life-threatening.",
+        "text_sw": "Piga 999/112 mara moja. Hii ni hatari ya maisha.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_emergency",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Use EpiPen/epinephrine auto-injector if available. Inject into outer thigh.",
+        "text_sw": "Tumia EpiPen/sindano ya epinephrine kama ipo. Dondoa paja la nje.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_epipen",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Have person lie down with legs elevated.",
+        "text_sw": "Mwambie mtu alale na miguu ikiwa juu.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_legs_elevated",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Monitor breathing. Be ready to perform CPR if needed.",
+        "text_sw": "Angalia upumuaji. Kuwa tayari kufanya CPR ikihitajika.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "drowning",
+    "title_en": "Drowning",
+    "title_sw": "Kuzama",
+    "icon_asset": "ic_drowning",
+    "category": "Critical",
+    "keywords": "water, drowning, swimming, maji, kuzama, kuogelea",
+    "steps": [
+      {
+        "text_en": "Get person out of water safely. Don't put yourself at risk.",
+        "text_sw": "Toa mtu majini kwa usalama. Usijiweke hatarini.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_water_rescue",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Call 999/112 immediately.",
+        "text_sw": "Piga 999/112 mara moja.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_emergency",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Check for breathing. If not breathing, start CPR immediately.",
+        "text_sw": "Angalia upumuaji. Kama hapumui, anza CPR mara moja.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_check_breathing",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Remove wet clothing and keep person warm.",
+        "text_sw": "Toa nguo zilizolowa na mweke mtu mahali pa joto.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "burns",
+    "title_en": "Burns",
+    "title_sw": "Maumivu ya Moto",
+    "icon_asset": "ic_burn",
+    "category": "Urgent",
+    "keywords": "burn, fire, hot, scald, moto, kuchoma, maji moto",
+    "steps": [
+      {
+        "text_en": "Remove person from heat source. Stop the burning process.",
+        "text_sw": "Toa mtu kutoka chanzo cha joto. Simamisha mchakato wa kuchoma.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_stop_burn",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Cool the burn with cool (not ice cold) running water for 10-20 minutes.",
+        "text_sw": "Pooza kwa maji ya kawaida (si baridi sana) kwa dakika 10-20.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_cool_water",
+        "timer_seconds": 600
+      },
+      {
+        "text_en": "Remove jewelry and tight clothing before swelling starts.",
+        "text_sw": "Toa vito na nguo zinazobana kabla ya uvimbe kuanza.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Cover with sterile, non-stick bandage. Do NOT apply ice, butter, or ointments.",
+        "text_sw": "Funika na bendeji safi. USITUMIE barafu, siagi, au malahamu.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_bandage_burn",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Seek medical help for severe burns (large area, face, hands, or blistering).",
+        "text_sw": "Tafuta msaada wa daktari kwa maumivu makubwa (eneo kubwa, uso, mikono, au mapafu).",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "fracture",
+    "title_en": "Fractures/Broken Bones",
+    "title_sw": "Mifupa Iliyovunjika",
+    "icon_asset": "ic_fracture",
+    "category": "Urgent",
+    "keywords": "broken bone, fracture, mfupa, kuvunjika",
+    "steps": [
+      {
+        "text_en": "Do NOT move the injured area. Keep it still.",
+        "text_sw": "USIHAMISHA sehemu iliyoumia. Iweke imara.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_immobilize",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Call 999/112 for severe fractures or if bone is visible.",
+        "text_sw": "Piga 999/112 kwa mifupa iliyovunjika vibaya au kama mfupa unaonekana.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_emergency",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Apply ice pack wrapped in cloth to reduce swelling (20 minutes on, 20 off).",
+        "text_sw": "Weka barafu iliyofungwa kitambaa kupunguza uvimbe (dakika 20 juu, 20 nje).",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_ice_pack",
+        "timer_seconds": 1200
+      },
+      {
+        "text_en": "Splint the area if trained. Use rigid materials like cardboard or sticks.",
+        "text_sw": "Weka splint kama umefunzwa. Tumia vitu vigumu kama karatasi au fimbo.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_splint",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Treat for shock. Keep person warm and calm.",
+        "text_sw": "Tibu mshtuko. Weka mtu mahali pa joto na atulie.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "head_injury",
+    "title_en": "Head Injury/Concussion",
+    "title_sw": "Jeraha la Kichwa",
+    "icon_asset": "ic_head_injury",
+    "category": "Urgent",
+    "keywords": "head, concussion, brain, kichwa, ubongo",
+    "steps": [
+      {
+        "text_en": "Call 999/112 if person is unconscious, vomiting, or confused.",
+        "text_sw": "Piga 999/112 kama mtu amepoteza fahamu, anatapika, au ana mkanganyiko.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_emergency",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Keep person still. Do NOT move if neck injury is suspected.",
+        "text_sw": "Weka mtu bila kusogea. USIHAMISHA kama unashuku jeraha la shingo.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_keep_still",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Apply ice pack to swollen areas (wrapped in cloth).",
+        "text_sw": "Weka barafu kwenye maeneo yaliyovimba (imefungwa kitambaa).",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_ice_head",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Monitor for symptoms: headache, dizziness, nausea, vision changes.",
+        "text_sw": "Angalia dalili: maumivu ya kichwa, kizunguzungu, kichefuchefu, mabadiliko ya macho.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Seek medical attention even if symptoms seem mild.",
+        "text_sw": "Tafuta msaada wa daktari hata kama dalili zinaonekana nyepesi.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "poisoning",
+    "title_en": "Poisoning",
+    "title_sw": "Sumu",
+    "icon_asset": "ic_poison",
+    "category": "Urgent",
+    "keywords": "poison, toxic, swallowed, sumu, kumeza",
+    "steps": [
+      {
+        "text_en": "Call 999/112 or poison control immediately.",
+        "text_sw": "Piga 999/112 au kituo cha sumu mara moja.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_emergency",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Try to identify what was swallowed. Keep the container if possible.",
+        "text_sw": "Jaribu kutambua kilichomezwa. Weka chombo ikiwezekana.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_poison_container",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Do NOT make person vomit unless told to by medical professional.",
+        "text_sw": "USIMFANYE mtu atapike isipokuwa umwambiwa na mtaalamu wa afya.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      },
+      {
+        "text_en": "If person is unconscious, turn them on their side.",
+        "text_sw": "Kama mtu amepoteza fahamu, mgeuze upande.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_recovery_position",
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "snake_bite",
+    "title_en": "Snake Bite",
+    "title_sw": "Kuumwa na Nyoka",
+    "icon_asset": "ic_snake",
+    "category": "Urgent",
+    "keywords": "snake, bite, venom, nyoka, kuumwa, sumu",
+    "steps": [
+      {
+        "text_en": "Call 999/112 immediately. All snake bites should be treated as medical emergencies.",
+        "text_sw": "Piga 999/112 mara moja. Kuumwa na nyoka yoyote ni dharura ya matibabu.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_emergency",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Keep person calm and still. Movement spreads venom faster.",
+        "text_sw": "Weka mtu atulie na bila kusogea. Kusogea kusambaza sumu haraka.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_keep_calm",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Remove jewelry and tight clothing near the bite.",
+        "text_sw": "Toa vito na nguo zinazobana karibu na mahali pa kuumwa.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Keep bitten area below heart level if possible.",
+        "text_sw": "Weka sehemu iliyoumwa chini ya kiwango cha moyo ikiwezekana.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_lower_limb",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Do NOT cut the wound, apply ice, or use a tourniquet.",
+        "text_sw": "USIKATA jeraha, weka barafu, au tumia kizuizi cha damu.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "seizure",
+    "title_en": "Seizures",
+    "title_sw": "Kifafa",
+    "icon_asset": "ic_seizure",
+    "category": "Urgent",
+    "keywords": "seizure, convulsion, epilepsy, kifafa, degedege",
+    "steps": [
+      {
+        "text_en": "Stay calm. Time the seizure. Call 999/112 if it lasts over 5 minutes.",
+        "text_sw": "Tulia. Pima muda wa kifafa. Piga 999/112 kama inachukua zaidi ya dakika 5.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_time_seizure",
+        "timer_seconds": 300
+      },
+      {
+        "text_en": "Clear area of hard or sharp objects. Protect their head.",
+        "text_sw": "Ondoa vitu vigumu au vikali. Linda kichwa chao.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_clear_area",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Do NOT hold person down or put anything in their mouth.",
+        "text_sw": "USIMSHIKE mtu chini au kuweka kitu kinywani mwao.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Turn person on their side after seizure stops to help breathing.",
+        "text_sw": "Mgeuze mtu upande baada ya kifafa kuisha ili kusaidia kupumua.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_recovery_position",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Stay with person until fully conscious. Reassure them.",
+        "text_sw": "Kaa na mtu hadi apate fahamu kamili. Mfariji.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "shock",
+    "title_en": "Shock",
+    "title_sw": "Mshtuko",
+    "icon_asset": "ic_shock",
+    "category": "Urgent",
+    "keywords": "shock, pale, weak pulse, mshtuko, rangi kubadilika",
+    "steps": [
+      {
+        "text_en": "Call 999/112. Shock is a life-threatening condition.",
+        "text_sw": "Piga 999/112. Mshtuko ni hali ya hatari ya maisha.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_emergency",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Have person lie down with legs elevated 12 inches.",
+        "text_sw": "Mwambie mtu alale na miguu ikiwa juu inchi 12.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_legs_elevated",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Keep person warm with blanket. Do not overheat.",
+        "text_sw": "Weka mtu mahali pa joto na blanketi. Usimfanye joto sana.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_keep_warm",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Do NOT give food or water.",
+        "text_sw": "USITOE chakula au maji.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Monitor breathing and pulse. Be ready to perform CPR.",
+        "text_sw": "Angalia upumuaji na mapigo ya moyo. Kuwa tayari kufanya CPR.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "eye_injury",
+    "title_en": "Eye Injury",
+    "title_sw": "Jeraha la Jicho",
+    "icon_asset": "ic_eye",
+    "category": "Urgent",
+    "keywords": "eye, vision, chemical, jicho, kuona",
+    "steps": [
+      {
+        "text_en": "Do NOT rub the eye. This can cause more damage.",
+        "text_sw": "USISUGUE jicho. Hii inaweza kusababisha uharibifu zaidi.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_no_rub_eye",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "For chemicals: Flush eye with clean water for 15 minutes.",
+        "text_sw": "Kwa kemikali: Osha jicho kwa maji safi kwa dakika 15.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_flush_eye",
+        "timer_seconds": 900
+      },
+      {
+        "text_en": "For foreign object: Do NOT try to remove it. Cover eye with cup or cone.",
+        "text_sw": "Kwa kitu cha kigeni: USIJARIBU kukitoa. Funika jicho na kikombe au koni.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_protect_eye",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Seek immediate medical attention for all serious eye injuries.",
+        "text_sw": "Tafuta msaada wa daktari mara moja kwa majeraha yote makubwa ya jicho.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "cuts_scrapes",
+    "title_en": "Cuts and Scrapes",
+    "title_sw": "Mikato na Mikwaruzo",
+    "icon_asset": "ic_cut",
+    "category": "Common",
+    "keywords": "cut, scrape, wound, mkato, kidonda",
+    "steps": [
+      {
+        "text_en": "Wash your hands before treating the wound.",
+        "text_sw": "Osha mikono yako kabla ya kutibu jeraha.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_wash_hands",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Clean wound with clean water. Remove dirt gently.",
+        "text_sw": "Safisha jeraha kwa maji safi. Toa uchafu pole pole.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_clean_wound",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Apply antibiotic ointment if available.",
+        "text_sw": "Weka dawa ya kuua vijidudu ikipo.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_ointment",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Cover with sterile bandage. Change daily.",
+        "text_sw": "Funika na bendeji safi. Badilisha kila siku.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_bandage",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Watch for signs of infection: redness, swelling, pus, or fever.",
+        "text_sw": "Angalia dalili za maambukizi: wekundu, uvimbe, usaha, au homa.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "nosebleed",
+    "title_en": "Nosebleed",
+    "title_sw": "Damu Kutoka Puani",
+    "icon_asset": "ic_nosebleed",
+    "category": "Common",
+    "keywords": "nose, bleeding, nosebleed, pua, damu",
+    "steps": [
+      {
+        "text_en": "Sit down and lean slightly forward. Do NOT lean back.",
+        "text_sw": "Keti na inama mbele kidogo. USIINAME nyuma.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_lean_forward",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Pinch soft part of nose firmly for 10 minutes.",
+        "text_sw": "Bana sehemu laini ya pua kwa nguvu kwa dakika 10.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_pinch_nose",
+        "timer_seconds": 600
+      },
+      {
+        "text_en": "Breathe through your mouth. Apply ice pack to bridge of nose.",
+        "text_sw": "Pumua kwa mdomo. Weka barafu kwenye daraja la pua.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_ice_nose",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "After bleeding stops, avoid blowing nose for several hours.",
+        "text_sw": "Baada ya damu kuacha, epuka kupuliza pua kwa masaa kadhaa.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Seek medical help if bleeding continues after 20 minutes.",
+        "text_sw": "Tafuta msaada wa daktari kama damu inaendelea baada ya dakika 20.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "sprain_strain",
+    "title_en": "Sprains and Strains",
+    "title_sw": "Kulegea na Kusukumwa",
+    "icon_asset": "ic_sprain",
+    "category": "Common",
+    "keywords": "sprain, strain, ankle, wrist, kulegea, mkono, mguu",
+    "steps": [
+      {
+        "text_en": "Rest the injured area. Avoid using it.",
+        "text_sw": "Pumzisha sehemu iliyoumia. Epuka kuitumia.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_rest",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Ice: Apply ice pack for 20 minutes every 2-3 hours for first 48 hours.",
+        "text_sw": "Barafu: Weka barafu kwa dakika 20 kila masaa 2-3 kwa masaa 48 ya kwanza.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_ice_pack",
+        "timer_seconds": 1200
+      },
+      {
+        "text_en": "Compression: Wrap with elastic bandage. Not too tight.",
+        "text_sw": "Kubana: Funga kwa bendeji ya elastic. Si kwa nguvu sana.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_wrap_bandage",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Elevation: Keep injured area raised above heart level.",
+        "text_sw": "Kuinua: Weka sehemu iliyoumia juu ya kiwango cha moyo.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_elevate",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Seek medical help if severe pain, can't bear weight, or no improvement in 48 hours.",
+        "text_sw": "Tafuta msaada wa daktari kama maumivu makali, huwezi kubeba uzito, au hakuna maboresho kwa masaa 48.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "fainting",
+    "title_en": "Fainting",
+    "title_sw": "Kuzimia",
+    "icon_asset": "ic_fainting",
+    "category": "Common",
+    "keywords": "faint, dizzy, unconscious, kuzimia, kizunguzungu",
+    "steps": [
+      {
+        "text_en": "If person feels faint: Have them lie down with legs elevated.",
+        "text_sw": "Kama mtu anahisi kuzimia: Mwambie alale na miguu ikiwa juu.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_legs_up",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "If already fainted: Check breathing. Call 999/112 if not breathing.",
+        "text_sw": "Kama ameshazimia: Angalia upumuaji. Piga 999/112 kama hapumui.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_check_breathing",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Loosen tight clothing. Ensure good air circulation.",
+        "text_sw": "Legeza nguo zinazobana. Hakikisha hewa inazunguka vizuri.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      },
+      {
+        "text_en": "When conscious, keep lying down for a few minutes before sitting up slowly.",
+        "text_sw": "Wakati ana fahamu, endelea kulala kwa dakika chache kabla ya kuketi pole pole.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Seek medical help if fainting is frequent or unexplained.",
+        "text_sw": "Tafuta msaada wa daktari kama kuzimia ni mara kwa mara au hakuna sababu.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "heatstroke",
+    "title_en": "Heatstroke/Heat Exhaustion",
+    "title_sw": "Joto Kupita Kiasi",
+    "icon_asset": "ic_heat",
+    "category": "Common",
+    "keywords": "heat, hot, sun, dehydration, joto, jua, ukosefu wa maji",
+    "steps": [
+      {
+        "text_en": "Move person to cool, shaded area immediately.",
+        "text_sw": "Hamisha mtu mahali pa baridi, kivuli mara moja.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_shade",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Call 999/112 if person is confused, unconscious, or has very high temperature.",
+        "text_sw": "Piga 999/112 kama mtu ana mkanganyiko, amepoteza fahamu, au ana joto sana.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_call_emergency",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Remove excess clothing. Apply cool, wet cloths to skin.",
+        "text_sw": "Toa nguo za ziada. Weka vitambaa baridi na vilivyolowa kwenye ngozi.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_cool_cloth",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Give cool water to drink if person is conscious and can swallow.",
+        "text_sw": "Toa maji baridi kunywa kama mtu ana fahamu na anaweza kumeza.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_drink_water",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Fan the person. Continue cooling until body temperature drops.",
+        "text_sw": "Peperusha mtu. Endelea kupooza hadi joto la mwili lishuke.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "hypothermia",
+    "title_en": "Hypothermia",
+    "title_sw": "Baridi Kupita Kiasi",
+    "icon_asset": "ic_cold",
+    "category": "Common",
+    "keywords": "cold, freezing, shivering, baridi, kutetemeka",
+    "steps": [
+      {
+        "text_en": "Move person to warm, dry place. Call 999/112 if severe.",
+        "text_sw": "Hamisha mtu mahali pa joto na kavu. Piga 999/112 kama ni kali.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_warm_place",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Remove wet clothing. Replace with dry, warm blankets.",
+        "text_sw": "Toa nguo zilizolowa. Badilisha na blanketi kavu za joto.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_dry_blanket",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Cover head and neck. These areas lose heat quickly.",
+        "text_sw": "Funika kichwa na shingo. Maeneo haya yanapoteza joto haraka.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_cover_head",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Give warm (not hot) drinks if person is conscious. No alcohol.",
+        "text_sw": "Toa vinywaji vya joto (si moto sana) kama mtu ana fahamu. Hakuna pombe.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_warm_drink",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Do NOT use direct heat (heating pads, hot water). Warm gradually.",
+        "text_sw": "USITUMIE joto la moja kwa moja (pedi za joto, maji moto). Ongeza joto pole pole.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  },
+  {
+    "id": "insect_bites",
+    "title_en": "Insect Bites/Stings",
+    "title_sw": "Kuumwa na Wadudu",
+    "icon_asset": "ic_insect",
+    "category": "Common",
+    "keywords": "bee, wasp, mosquito, insect, nyuki, mbu, wadudu",
+    "steps": [
+      {
+        "text_en": "Remove stinger if visible (scrape, don't pinch).",
+        "text_sw": "Toa mshale kama unaonekana (kwaruza, usibane).",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_remove_stinger",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Wash area with soap and water.",
+        "text_sw": "Osha eneo kwa sabuni na maji.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_wash_bite",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Apply ice pack to reduce swelling and pain.",
+        "text_sw": "Weka barafu kupunguza uvimbe na maumivu.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_ice_pack",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Apply anti-itch cream or take antihistamine if needed.",
+        "text_sw": "Weka krimu ya kupunguza kuwashwa au chukua dawa ya antihistamine ikihitajika.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": "img_cream",
+        "timer_seconds": null
+      },
+      {
+        "text_en": "Seek medical help if severe swelling, difficulty breathing, or signs of allergic reaction.",
+        "text_sw": "Tafuta msaada wa daktari kama uvimbe mkubwa, ugumu wa kupumua, au dalili za mzio.",
+        "audio_asset_en": null,
+        "audio_asset_sw": null,
+        "graphic_asset": null,
+        "timer_seconds": null
+      }
+    ]
+  }
+]

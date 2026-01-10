@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="sema_green">#4CAF50</color>
+    <color name="sema_red">#F44336</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SemaRescue</string>
+    <style name="Base.Theme.SemaRescue" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+    </style>
+    <style name="Theme.SemaRescue" parent="Base.Theme.SemaRescue"/>
+</resources>
