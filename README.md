@@ -82,8 +82,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
+<p align="center">Inspired by Dr.Kaslim</p>
 <p align="center">Made by mutukustephen</p>
-
 ---
 
 # .env.example
