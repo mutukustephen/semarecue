@@ -79,13 +79,6 @@ For detailed guidelines, please open an issue or contact the maintainer.
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">Inspired by Dr.Kaslim</p>
-<p align="center">Made by mutukustephen</p>
----
-
 # .env.example
 
 ```env
@@ -124,3 +117,11 @@ DEFAULT_EMERGENCY_CONTACT_NUMBER=+1234567890
 ENABLE_PANIC_MODE=true
 
 ```
+
+
+---
+
+<p align="center">Inspired by Dr.Kaslim</p>
+<p align="center">Made by mutukustephen</p>
+---
+
